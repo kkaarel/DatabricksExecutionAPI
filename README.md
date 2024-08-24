@@ -6,7 +6,9 @@ Add your varibles to the secrets.toml
 
 
 pat = ""
+
 workspace = "xxxxx.azuredatabricks.net"
+
 http_path = "/sql/1.0/warehouses/xxxxx"
 
 
