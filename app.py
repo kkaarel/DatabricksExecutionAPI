@@ -15,7 +15,7 @@ connection = sql.connect(
 cursor = connection.cursor()
 
 
-st.header("Query you data from Databricks")
+st.header("Query your data from Databricks")
 query = st.text_input("Enter SQL query here:")
 if st.button("Execute"):
     cursor.execute(query)
