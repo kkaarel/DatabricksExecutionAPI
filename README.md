@@ -1,4 +1,4 @@
-# DatabricksExecutionAPI
+# DatabricksSQLConnector
 
 
 Add your varibles to the secrets.toml
