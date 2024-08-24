@@ -10,4 +10,4 @@ workspace = "xxxxx.azuredatabricks.net"
 http_path = "/sql/1.0/warehouses/xxxxx"
 
 
-[Blog:](https://www.kkaarel.com/blogs/using-databricks-execution-api-streamlit/)
+[Blog](https://www.kkaarel.com/blogs/using-databricks-execution-api-streamlit/)
