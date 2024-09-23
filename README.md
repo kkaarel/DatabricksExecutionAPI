@@ -1,7 +1,7 @@
 # DatabricksSQLConnector
 
 
-Add your varibles to the secrets.toml
+Add your variables to the secrets.toml
 
 
 
